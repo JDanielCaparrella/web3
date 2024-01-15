@@ -1,0 +1,21 @@
+p { 
+    font-size:21px; 
+  }
+  .bold {
+    font-weight: bold;
+  }
+  .groc { 
+    color: #ffee00;
+    font-weight: bold;
+  }
+  .fondoazul {
+    background-color: rgb(26, 45, 131);
+    color: white;
+  }
+  .letrapurpura {
+    color: rgb(100, 27, 196);
+  }
+  .fondoverde {
+    background-color: rgb(3, 90, 0);
+    color: white;
+  }

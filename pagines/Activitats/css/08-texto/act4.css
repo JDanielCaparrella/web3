@@ -1,0 +1,14 @@
+.titol{
+    font-family: cursive;
+    color:#e21f0f;
+}
+
+.text{
+    font-family:arial;
+    color:#000000;
+    font-size:18px;
+}
+@font-face{
+font-family: myFirstFont;
+src: url(sansation_light.woff);
+}

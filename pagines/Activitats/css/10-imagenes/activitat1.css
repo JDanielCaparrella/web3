@@ -1,0 +1,44 @@
+.textoizquierda {
+    max-width: 30rem;
+    padding: 8px;
+    background-color: rgba(30, 255, 0, 0.521);
+    border-radius: 25px;
+    margin-left: 20%;
+    text-align: right;
+    color: rgba(8, 0, 0, 0.658);
+}
+.fotoizquierda {
+	aspect-ratio: 1 / 1; 
+	object-fit: cover; 
+	object-position: left; 
+    border-radius: 50%; 
+    float: left;
+}
+.textoderecha {
+    max-width: 40rem;
+    min-width: 15rem;
+    padding: 8px;
+    background-color: rgba(211, 173, 69, 0.658);
+    border-radius: 25px;
+    margin-left: 60%;
+    margin-right: 40%;
+    text-align: left;
+    color: rgba(8, 0, 0, 0.658);
+}
+.fotoderecha {
+	aspect-ratio: 1 / 1; 
+	object-fit: cover; 
+	object-position: right; 
+    border-radius: 50%; 
+    float: right;
+}
+
+.hora {
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.301);
+}
+.horaderecha {
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.301);
+    text-align: left;
+}

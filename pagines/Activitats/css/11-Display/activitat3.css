@@ -1,0 +1,17 @@
+ul {
+    list-style-type: none;
+    display: inline-block;
+    font-weight: bold;
+}
+li.lista {
+    float: left;
+
+  }
+  
+  li a {
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 15px 83px;
+    text-decoration: none;
+  }

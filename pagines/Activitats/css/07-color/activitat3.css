@@ -1,0 +1,28 @@
+  p { 
+    font-size:30px; 
+    font-family: 'Arial';
+    width: 100%; 
+    text-indent: 30px;
+  }
+  .header {
+    padding: 30px;
+    width: 100%;  
+    border-bottom: 1px solid rgb(133, 133, 133);
+}
+  .simplest {
+      font-size: 30px;
+      color: rgb(255, 0, 0);
+      font-family: 
+  }
+  .blog {
+    font-size: 30px;
+    font-family: 'Arial';
+    color: rgb(255, 0, 0);
+    font-weight: bold;
+}
+.fondorojo {
+    font-size: 30px;
+    font-family: 'Arial';
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 0);
+}

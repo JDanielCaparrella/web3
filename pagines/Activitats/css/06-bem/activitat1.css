@@ -1,0 +1,11 @@
+.header {
+    padding: 1%;
+    text-align: center; 
+    background: #ac0000;
+    color: rgb(2, 0, 128);
+    font-size: 30px;
+  }
+  img {
+    max-width: 4%;
+    height: auto;
+  }

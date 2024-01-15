@@ -1,0 +1,23 @@
+.nom:hover{
+    font-size:22px;
+    font-weight:bold;
+    color:red;
+    font-weight:bold;
+}
+.prologo{
+    font-size:18px;
+    font-weight:bold;
+    color:red;
+    text-transform:uppercase;
+}
+.text{
+    font-style:oblique;
+    font-weight:bold;
+}
+.titol:hover{
+    letter-spacing:5px; 
+    color: green;
+}
+.content{
+    margin:10px;
+}
