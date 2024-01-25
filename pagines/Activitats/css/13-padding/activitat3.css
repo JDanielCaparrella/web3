@@ -1,0 +1,11 @@
+.tabla {
+    border-style: solid;
+    padding: 20px 20px;
+}
+summary {
+    list-style: none;
+    font-size: 30px;    
+}
+p {
+    font-size: 20px;    
+}

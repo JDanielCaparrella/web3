@@ -1,0 +1,8 @@
+img {
+    border-color: orange;
+    border-width: 10px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-left-style: dashed ;
+    border-right-style: dashed ;
+}

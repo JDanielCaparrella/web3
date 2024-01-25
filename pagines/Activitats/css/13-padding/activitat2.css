@@ -1,0 +1,51 @@
+.columna {
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(182, 182, 182);
+    max-width: 20rem;
+    padding-bottom: 50px;
+}
+.titulo {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.texto {
+    font-size: 15px;
+    margin-left: 50px;
+    max-width: 12rem;
+}
+.textoprecio {
+    font-size: 14px;
+    margin-left: 50px;
+    max-width: 2px;
+    color: rgb(88, 88, 88);
+}
+.presio {
+    font-size: 30px;
+    font-weight: bold;
+}
+.pregunta {
+    font-size: 15px;
+    margin-left: 50px;
+    font-weight: bold;
+    color:  rgb(18, 102, 136);
+}
+.boton {
+    font-size: 14px;
+    margin-left: 50px;
+    background-color: rgb(18, 102, 136);
+    border-style: none;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    padding: 12px 40px;
+}
+ul {
+    list-style: none;
+    margin-left: 11px;
+    max-width: 15rem;
+  }
+ul li:before {
+    content: '✓'; 
+   }
