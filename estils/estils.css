@@ -135,6 +135,11 @@ input[type=text], select {
       text-align: center;
   }
 
+dd > a > h2  {
+    color: #cec430;
+    text-decoration: none;
+  }
+
   .footer {
     position: relative;
     right: 0;

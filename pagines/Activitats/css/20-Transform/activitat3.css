@@ -1,0 +1,17 @@
+.boton {
+    background-color: red;
+    border-style: none;
+    padding: 100px 100px;
+    border-radius: 100px;
+}
+.boton2 {
+    background-color: rgba(0, 0, 255, 0.466);
+    border-style: none;
+    padding: 100px 100px;
+    border-radius: 100px;
+}
+.boton2:hover {
+    transform-origin: top left;
+  transform: rotate(90deg);
+    
+}
