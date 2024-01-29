@@ -1,0 +1,32 @@
+.sol {
+        text-align: center;
+}
+
+.boton {
+    background-color: rgb(251, 255, 0);
+    border-style: none;
+    padding: 100px 100px;
+    border-radius: 100%;
+
+}
+.boton1 {
+    background-color: rgb(26, 28, 47);
+    border-style: none;
+    padding: 100px 100px;
+    border-radius: 100px;  
+    animation-name: mover;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+@keyframes mover {
+    0% {
+        color: red;
+      }
+    
+      100% {
+    
+        color: yellow;
+    }
+  }
+  
